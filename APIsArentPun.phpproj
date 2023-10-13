@@ -1,0 +1,11 @@
+﻿<Project Sdk="Devsense.Php.Sdk">
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>7f539054-b2ee-40cf-8138-36d2bcac7d1d</ProjectGuid>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnvName>PHPDev</EnvName>
+    <RuntimeVersion>8.2</RuntimeVersion>
+    <SpecificPageValue>Front_End/index.php</SpecificPageValue>
+    <StartAction>SpecificPage</StartAction>
+  </PropertyGroup>
+</Project>
